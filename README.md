@@ -1,6 +1,6 @@
 # Marketing common data modelling
-	Welcome to Marketing common data modelling!
-	We use map data from various ad platforms into a single one. it can help marketers with questions like: "Where clicks better on facebook or tiktok?"
+Welcome to Marketing common data modelling!
+We use map data from various ad platforms into a single one. it can help marketers with questions like: "Where clicks better on facebook or tiktok?"
 
 The model behind dashboard uses Google Big Query as the DWH, DBT Cloud for development, Google Looker Studio for dashboard visualization, and contains:
 	— raw data from the ad systems (seeds folder),
